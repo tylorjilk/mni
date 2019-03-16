@@ -1,0 +1,4 @@
+MNI Data:
+Femurs: 0 individuals
+Tibias: 0 individuals
+Pelvis: 13 individuals
